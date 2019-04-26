@@ -147,6 +147,7 @@ footer nav a {
 .logo-nav-container{
     display: flex;
     justify-content: space-evenly;
+    align-items: flex-end;
     /*border: 1px solid red;*/
 }
 .nav-container{
@@ -195,7 +196,7 @@ footer nav a {
     background: dodgerblue;
 }
 .main-contents{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 10px;
     display: flex;
     flex-wrap: wrap;
@@ -204,7 +205,7 @@ footer nav a {
 hr{
     border: 1px dashed black;
 }
-.strategy-container{
+/* .strategy-container{
     border: 1px solid blue;
 }
 .work-container{
@@ -215,8 +216,31 @@ hr{
 }
 .collab-container{
     border: 1px solid blue;
-}
+} */
 .child{
     padding: 10px;
     width: 385px;
+    /* border: 1px solid blue; */
+}
+.work-together{
+    padding: 10px;
+    margin-bottom: 30px;
+}
+button{
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    background-color: white;
+    border: 3px solid black;
+    width: 150px;
+}
+.cityscape{
+    padding: 10px;
+}
+.about-container{
+    padding:15px;
+}
+.child h2{
+    margin-top: 15px;
 }
