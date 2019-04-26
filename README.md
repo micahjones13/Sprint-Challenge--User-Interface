@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-    display: inline allows elements to be nested inside other elements without disrupting the content flow, while display: block; takes up as much space as their parents allow.
+    display: inline allows elements to be nested inside other elements without disrupting the content flow, while display: block; takes up as much space as their parents allow and tolerates no HTML elements next to it
 
 3. What are the 4 areas of the box model?
 
