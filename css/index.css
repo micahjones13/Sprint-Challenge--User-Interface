@@ -144,3 +144,23 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.logo-nav-container{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid red;
+}
+.nav-container{
+    padding: 10px;
+    border: 1px solid blue;
+}
+.logo-container{
+    border: 1px solid blue;
+}
+.nav-container a {
+    margin:30px;
+    text-decoration: none;
+    color: black;
+}
+.lightpic {
+    padding: 10px;
+}
