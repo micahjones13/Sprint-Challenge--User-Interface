@@ -194,3 +194,29 @@ footer nav a {
 .box10{
     background: dodgerblue;
 }
+.main-contents{
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+hr{
+    border: 1px dashed black;
+}
+.strategy-container{
+    border: 1px solid blue;
+}
+.work-container{
+    border: 1px solid blue;
+}
+.where-container{
+    border: 1px solid blue;
+}
+.collab-container{
+    border: 1px solid blue;
+}
+.child{
+    padding: 10px;
+    width: 385px;
+}
